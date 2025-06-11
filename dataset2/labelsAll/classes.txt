@@ -1,0 +1,9 @@
+chair
+cipher
+cabinet
+pole
+survivor
+board
+bench
+redLight
+boardDown
