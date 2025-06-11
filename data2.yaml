@@ -3,4 +3,13 @@ train: images/train
 val: images/val
 
 names:
-  0: board
+  0: chair
+  1: cipher
+  2: cabinet
+  3: pole
+  4: survivor
+  5: board
+  6: bench
+  7: redLight
+  8: boardDown
+  9: coaster

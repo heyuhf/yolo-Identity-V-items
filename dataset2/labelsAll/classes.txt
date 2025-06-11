@@ -7,3 +7,4 @@ board
 bench
 redLight
 boardDown
+coaster
