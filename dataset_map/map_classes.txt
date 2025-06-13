@@ -1,0 +1,10 @@
+arms_factory
+chinatown
+ever_sleeping_town
+lakeside_village
+leo_memory
+moonlit_river_park
+no_return_forest
+red_church
+sacred_heart_hospital
+white_sand_asylum

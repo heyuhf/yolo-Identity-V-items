@@ -6,3 +6,5 @@
 /dataset2/images/val/
 /dataset2/labels/train/
 /dataset2/labels/val/
+/dataset_map/train/
+/dataset_map/val/
